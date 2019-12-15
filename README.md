@@ -15,4 +15,6 @@
 
     $ python server.py
 
-    $ python client.py *File_to_send*
+    $ python client.py *File_to_send* -mode CC | PWD
+    > CC to authenticate with your CC
+    > PWD to authenticate with username + password
